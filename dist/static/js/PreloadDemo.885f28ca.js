@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack5_react_ts=self.webpackChunkwebpack5_react_ts||[]).push([[235],{1672:function(e,t,a){a.r(t);var c=a(7294);t.default=function(){return c.createElement("h3",null,"我是PreloadDemo组件")}}}]);
